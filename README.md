@@ -1,1 +1,3 @@
 Vulkan Samples 
+
+Clear Screen
